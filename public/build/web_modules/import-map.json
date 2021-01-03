@@ -1,0 +1,10 @@
+{
+  "imports": {
+    "@material-ui/core": "./@material-ui/core.js",
+    "@material-ui/core/styles": "./@material-ui/core/styles.js",
+    "react": "./react.js",
+    "react-dom": "./react-dom.js",
+    "react-p5": "./react-p5.js",
+    "socket.io-client": "./socket.io-client.js"
+  }
+}
