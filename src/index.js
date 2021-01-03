@@ -30,7 +30,7 @@ const colors = {
 
 
 app.get("*", (req, res) => { //used to request static files
-	res.sendFile(req.path, { "root": "./public/build" });
+	res.sendFile(req.path, { "root": "../public/build" });
 });
 
 
