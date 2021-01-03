@@ -1,1 +1,1 @@
-web: cd src; node src/index.js
+web: cd src; node index.js
