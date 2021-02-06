@@ -4,7 +4,7 @@ Doodle is a clone of skribbl.io, written in JavaSript, NodeJS using React, P5.js
 ## Installation
 1. Clone This Repository
     ```bash
-    git clone https://github.com/nikhilAnayak/Doodle.git
+    git clone https://github.com/indianboy6/Doodle.git
     ```
 2. Install NPM Packages
     ```bash
